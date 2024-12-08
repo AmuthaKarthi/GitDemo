@@ -43,4 +43,10 @@ public void hello()
 {
 	System.out.println("Hello i changed something");
 }
+@Test
+public void hello1()
+{
+	System.out.println("Hello i changed something");
+}
+
 }
