@@ -47,6 +47,8 @@ public void hello()
 public void hello1()
 {
 	System.out.println("Hello i changed something");
+	System.out.println("Hello i changed something");
+	System.out.println("Hello i changed something");
 }
 
 }
