@@ -38,4 +38,9 @@ public void getWebsite()
 	
 	extent.flush();
 }
+@Test
+public void hello()
+{
+	System.out.println("Hello i changed something");
+}
 }
